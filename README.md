@@ -7,7 +7,7 @@ This repository contains the dataset introduced in the paper “Disco-GS: Gaussi
 3. The Pseudo-GT frames are included either at the beginning or at the end of each video sequence.
 
 ### How to access the dataset
-1. Please read the dataset agreement here: 
+1. Please read the dataset agreement here: https://drive.google.com/file/d/1xYvCBI5tCYqP_K_ATU-Kkr6U-zcVuzX2/view?usp=sharing
 2. Download and sign the agreement form.
 3. Submit your request through the following form: 
 4. Upload the signed agreement as part of the request form.
