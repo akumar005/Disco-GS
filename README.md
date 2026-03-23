@@ -9,7 +9,7 @@ This repository contains the dataset introduced in the paper “Disco-GS: Gaussi
 ### How to access the dataset
 1. Please read the dataset agreement here: https://drive.google.com/file/d/1xYvCBI5tCYqP_K_ATU-Kkr6U-zcVuzX2/view?usp=sharing
 2. Download and sign the agreement form.
-3. Submit your request through the following form: 
+3. Submit your request through the following form: https://forms.gle/SEiciocB2EQz36898
 4. Upload the signed agreement as part of the request form.
 
 Please note that the dataset is hosted on Google Drive. Due to the sharing policy, a Google (Gmail) account is required to obtain access. After submitting the request form, you will receive an email notification within 3–5 working days containing the download link to the dataset.
